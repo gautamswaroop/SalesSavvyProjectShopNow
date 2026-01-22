@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🛒 ShopNow – Modern E‑Commerce Website
 
 <p align="center">
@@ -226,3 +227,7 @@ http://localhost:5173
 | 🎨 Tailwind CSS | Styling         |
 | 🧪 Postman      | API Testing     |
 | 🧠 GitHub       | Version Control |
+=======
+# SalesSavvyProjectShopNow
+Sales Savvy - Modular E-Commerce Platform
+>>>>>>> a734dbc1e0207a5313561bfb3a5aba0a27a4d813
